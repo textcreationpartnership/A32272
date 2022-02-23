@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious speech to both houses of Parliament on Munday the 28th of January, 1677/8</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32272</idno>
+            <idno type="STC">Wing C3061</idno>
+            <idno type="STC">ESTC R35486</idno>
+            <idno type="EEBO-CITATION">15345436</idno>
+            <idno type="OCLC">ocm 15345436</idno>
+            <idno type="VID">103440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103440)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious speech to both houses of Parliament on Munday the 28th of January, 1677/8</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>By the heir of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103440:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:103440:1"/>
+            <!-- PDF PAGE 13 -->
+            <p>His Majeſties GRACIOUS SPEECH To both Houſes of PARLIAMENT, On <hi>Munday</hi> the 28<hi rend="sup">th</hi> of <hi>January,</hi> 1677/8.</p>
+            <p>Publiſhed by His Majeſties Command.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QUI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>H,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Sacred <hi>Majeſtie.</hi> 1678,</p>
+            <p>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:103440:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="3" facs="tcp:103440:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>His Majeſties GRACIOUS SPEECH To both Houſes of PARLIAMENT, On <date>
+                  <hi>Munday,</hi> the 28<hi rend="sup">th</hi> of <hi>January,</hi> 1677/8.</date>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen We parted laſt, I told you, That before We met again, I would do that which ſhould be to your Satiſ<g ref="char:EOLhyphen"/>faction; I have accordingly made ſuch Alliances with <hi>Holland,</hi> as are for the Preſervation of <hi>Flanders,</hi> and which cannot fail of tha<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, unleſs prevented either by the want of due Aſſ<gap reason="illegible: damage" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>es to ſupport thoſe Alliances, or by the ſmall regar<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Spaniards</hi> themſelves muſt have to their own preſ<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ion.</p>
+            <p>The firſt of theſe I cannot ſuſpect, by reaſon of your repeated Engage<g ref="char:EOLhyphen"/>ments to maintain them: and I know you are ſo wiſe, as to conſider, That a War, which muſt be the neceſſary Conſequence of them, ought neither to be proſecuted by halves, nor to want ſuch aſſurances of Perſeverance as may give Me encouragement to purſue it; beſides, it will not be leſs neceſſary, to let Our Enemies have ſuch a proſpect of Our Reſolutions, as may let them ſee certainly, That we ſhall not be weary of Our Arms, till <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> be reſtored to ſuch a Peace, as ſhall not be in the power of any Prince alone to diſturb.</p>
+            <p>I do acknowledge to you, That I have uſed all the means poſſible, by a Mediation, to have procured an Honourable and Safe Peace for <hi>Chriſtendom;</hi> knowing how preſerable ſuch a Peace would have been to any War, and eſpecially to this Kingdom, which muſt neceſſarily own the vaſt Benefits it has received by Peace, whilſt its Neighbours onely have yet ſmarted by the War: But finding it no longer to be hoped for by fair means, it ſhall not be My fault if that be not obtained by Force, which cannot be had otherwayes.</p>
+            <p>
+               <pb n="4" facs="tcp:103440:3"/>
+               <!-- PDF PAGE 15 -->
+For this Reaſon I have recalled My Troops from <hi>France,</hi> and have conſi<g ref="char:EOLhyphen"/>der'd, That although the <hi>Dutch</hi> ſhal do their parts, We cannot have leſs on Ours, then Ninety Sail of Capital Ships conſtantly maintained; nor leſs then Thirty or Fourty thouſand Land-men, (with their Dependencies) to be em<g ref="char:EOLhyphen"/>ployed upon Our Fleets, and elſewhere. And becauſe there ſhall be no fear of Miſ-employing what you ſhal give to theſe Uſes, I am contented that ſuch Money be appropriated to thoſe Ends, as ſtrictly as you can deſire. I have given Teſtimony enough of My Care in that kind, by the progreſs I have made in Building the New Ships, wherein, for the making them more uſeful, I have Directed ſuch larger Dimenſions, as will coſt Me above one hundred thouſand pounds more then the Act allows. I have gone as far as I could in Repairing the Old Fleet, and in buying of neceſſary ſtores for the Navy, and Ordnance; And in this and other Proviſions, for better Securing both My Forreign Plantations, and the Mands nearer home, I have expended a great deal more then the Two hundred thouſand pounds you enabled me to Borrow upon the Exciſe, although I have not found ſuch a Credit as I expected upon that Security. I have born the Charge both of a Rebellion in <hi>Virginia,</hi> and a new War with <hi>Algiers:</hi> I ſtand Engaged to the Prince of <hi>Orange</hi> for My Nieces Portion; and I ſhall not be able to Maintain My conſtant neceſſary Eſtabliſhments, unleſs the New Impoſt upon Wines, <hi>&amp;c.</hi> be continued to Me, which would otherwiſe turn only to their Profit, to whom We leaſt in<g ref="char:EOLhyphen"/>tend it.</p>
+            <p>I hope theſe things will need little Recommendation to you, when you con<g ref="char:EOLhyphen"/>ſider your Promiſes in ſome, and the Neceſſity of the reſt; and to let you ſee that I have not only employed My T<gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> and Treaſure for your Safety, but done all I could to remove all ſorts of <gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>uſies, I have married my Niece to the Prince of <hi>Orange,</hi> by which I hope <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve given full Aſſurances, that I ſhall never ſuffer his Intereſt to be ruined, i<gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>an be aſſiſted, as I ought to be to preſerve them.</p>
+            <p>Having done all this, I expect from you a plentiful Supply, ſuitable to ſuch great Occaſions, whereon depends not onely the Honour, but (for ought I know) the Beeing of an Engliſh Nation, which will not be ſaved by finding faults afterwards, but may be prevented by avoiding the chief Fault of doing weakly and by halves, what can onely be hoped from a vigorous and through proſecution of what We undertake.</p>
+            <p>Theſe conſiderations are of the greateſt Importance that ever concerned this Kingdom; and therefore I would have you enter immediately upon them, without ſuffering any other Buſineſs whatſoever to divert you from bringing them to good Reſolutions.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103440:3"/>
+            <!-- PDF PAGE 15 -->
+         </div>
+      </body>
+   </text>
+</TEI>
